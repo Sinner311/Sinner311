@@ -1,28 +1,24 @@
 ## 👋 Hello World! I'm Ohm (Pasupat Samutpong)
 
-**💼 Junior Full Stack Developer | 🎓 Computer Engineering Student @ Mae Fah Luang University**
+**💼 Junior Full Stack Developer | 🎓 Computer Engineering Graduate @ Mae Fah Luang University**
 
 ---
 
 ### 💡 About Me
 
-I’m a Computer Engineering student with strong skills in **full-stack development**, **backend systems**, and **database design**.
-I enjoy solving real problems by building practical and user-focused applications using modern technologies.
+I am a newly graduated **Computer Engineering** alumnus from Mae Fah Luang University, currently seeking a full-time role as a **Full-Stack Software Engineer**. I specialize in building practical, user-focused applications with robust backend architectures and efficient database designs.
 
-My experience includes developing complete systems from scratch—frontend, backend, database, and deployment—using frameworks such as **Node.js**, **Vue 3**, **TypeScript**, **Flutter**, and **Prisma**.
-
-> 🌟 My goal is to become a professional **Full-Stack Software Engineer** who builds impactful and scalable web-applications.
+Having completed my intensive Co-Operative Education internship alongside my academic degree, I possess hands-on experience handling the complete software lifecycle—from frontend interfaces to backend deployment using **Node.js**, **Vue 3**, **TypeScript**, **Flutter**, and **Prisma**.
 
 ---
 
-#### 🐟 ONLINE KOI POND WATER QUALITY MONITORING SYSTEM (Present)
+### 🎯 Current Focus & Job Opportunities
 
-Currently focusing on my **senior project**, IoT project presents the development of a sensor system in a Koi pond.
+I have recently graduated with my Bachelor's degree in Computer Engineering and successfully completed my Co-Operative Education internship. After taking a brief one-month break to fully resolve some personal and family matters, **I am now 100% focused, energized, and actively seeking a full-time position.**
 
-#### 🐟 MFU CITS Repair notification system(Present)
-
-Currently working on my **project from university**, Web-Application that process the workflow in order with
-each department
+*   **Role Target:** Junior Full-Stack Developer / Software Developer / Frontend Developer
+*   **Availability:** Immediate (Ready to onboard, relocate, and contribute to your team right away)
+*   **Commitment:** Fully prepared to bring my engineering background, technical skills, and strong problem-solving mindset to a professional development pipeline.
 
 ---
 
